@@ -1,10 +1,16 @@
 _repo: Stories-from-the-Trenches-Humorous-and-Lively-Doings-of-Our-Boys-Over-There-_49653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49653-h/images/cover.jpg
 creator:
   author:
     agent_name: Case, Carleton B.
     gutenberg_agent_id: '45470'
     url: http://www.gutenberg.org/2009/agents/45470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49653#Stories-from-the-Trenches-Humorous-and-Lively-Doings-of-Our-Boys-Over-There-
 gutenberg_issued: '2015-08-08'
 gutenberg_type: Text
 identifiers:
